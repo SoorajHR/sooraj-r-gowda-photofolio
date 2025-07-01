@@ -83,7 +83,7 @@ h2 {
 /* header */
 #header {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)),
-    url(images/main1.jpg) center/ cover no-repeat fixed;
+    url(images/main1.webp) center/ cover no-repeat fixed;
   justify-content: flex-start;
   align-items: flex-end;
 }
